@@ -1,0 +1,1 @@
+// Ruby oferece uma experiência de desenvolvimento ágil e flexível, mas isso vem com o custo de possíveis erros em tempo de execução e desafios na manutenção de grandes projetos. A escolha entre linguagens dinamicamente tipadas e estaticamente tipadas depende das necessidades específicas do projeto e das preferências da equipe de desenvolvimento.
