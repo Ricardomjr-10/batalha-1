@@ -1,0 +1,1 @@
+// em java esta tipada com classe e tipos. já em ruby não.
